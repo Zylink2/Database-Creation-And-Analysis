@@ -10,7 +10,7 @@ The project aimed to design a comprehensive ERD for Agoda’s database. The prim
 - Data query with SQL 
 - Problem-solving, analytical, and report writing skills .
 
-### Tool Used
+### Tools Used
 
 - PostgreSQL
 - Azure Data Studio
